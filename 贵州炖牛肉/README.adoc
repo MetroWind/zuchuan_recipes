@@ -36,4 +36,4 @@ image::3.jpg[3]
 
 == 结果
 
-忘了拍照了⋯⋯
+image::pic.avif[Result]
